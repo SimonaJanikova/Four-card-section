@@ -4,7 +4,7 @@
 This project is a frontend challenge that showcases a four-card feature section using HTML and CSS. It demonstrates responsive design with CSS Grid and Flexbox, as well as custom fonts and styled components.
 
 ## How to run
-
+https://simonajanikova.github.io/Four-card-section/
 
 ## Features
 - Responsive layout using CSS Grid and Flexbox
